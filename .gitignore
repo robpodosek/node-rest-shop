@@ -3,4 +3,5 @@ uploads
 package-lock.json
 *.log
 *.gz
-nodemon.js
+nodemon.json
+.DS_Store
